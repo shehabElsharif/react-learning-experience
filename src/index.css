@@ -25,19 +25,17 @@ body {
 }
 
 header{
-  height: fit-content;
-  justify-content: left;
+  text-align: left;
 }
 
 h1{
-  padding: 1rem 0rem;
+  padding: 0.5rem 1rem;
 }
 
 
 main{
   width: 100%;
   display: grid;
-  /* height: 84vh; */
   place-content: center;
   height: 82vh;
   }
